@@ -10,3 +10,27 @@
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Text Domain:  twenty-fifteen-cmb2
 */
+
+.custom-title-color-black .entry-title,
+.custom-subtitle-color-black .entry-subtitle { color: black }
+
+.custom-title-color-white .entry-title,
+.custom-subtitle-color-white .entry-subtitle { color: white }
+
+.custom-title-color-blue .entry-title,
+.custom-subtitle-color-blue .entry-subtitle { color: blue }
+
+.custom-title-color-darkblue .entry-title,
+.custom-subtitle-color-darkblue .entry-subtitle { color: darkblue }
+
+.custom-title-color-green .entry-title,
+.custom-subtitle-color-green .entry-subtitle { color: green }
+
+.custom-title-color-lightgrey .entry-title,
+.custom-subtitle-color-lightgrey .entry-subtitle { color: lightgray }
+
+.custom-title-color-darkgrey .entry-title,
+.custom-subtitle-color-darkgrey .entry-subtitle { color: darkgray }
+
+.custom-title-color-purple .entry-title,
+.custom-subtitle-color-purple .entry-subtitle { color: purple }
