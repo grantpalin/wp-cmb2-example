@@ -1,5 +1,6 @@
 <?php
 require_once get_stylesheet_directory() . '/inc/tgm.php';
+require_once get_stylesheet_directory() . '/inc/page-meta.php';
 
 function twenty_fifteen_cmb2_enqueue() {
 	$parent_style = 'parent-style'; // using a variable to ensure that parent theme style loads first
